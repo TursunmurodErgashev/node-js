@@ -10,6 +10,5 @@ for (let i=0; i<len; i++) {
         }
     }
 }
-  return arr;  
 };
 console.log(Sort(array));
